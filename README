@@ -1,0 +1,17 @@
+Instrucciones Generales
+1.	Tienes 30 minutos para completar la prueba.
+2.	Debes desarrollar Mockups facilitados de forma sencilla utilizando HTML, CSS, y JavaScript (sin frameworks como Bootstrap).
+3.	Entregar el código en un repositorio de GitHub o como archivo comprimido con el proyecto y las instrucciones de instalación.
+Requisitos de la Prueba:
+1.	Diseño Responsivo:
+o	Crear una página que replique el diseño mostrado en las imágenes proporcionadas (versión escritorio y móvil).
+o	La página debe adaptarse correctamente a diferentes resoluciones de pantalla.
+2.	Estructura HTML:
+o	Utilizar HTML o HTML5, siguiendo las buenas prácticas para la semántica web.
+o	Incluir una estructura clara y accesible (header, section, footer, etc.).
+3.	Estilo CSS:
+o	Seguir el diseño mostrado en las imágenes con precisión, asegurando que los colores, tipografía, y disposición de los elementos coincidan con el modelo proporcionado.
+o	No se permite el uso de frameworks CSS como Bootstrap, pero puedes usar Flexbox o Grid para la disposición de los elementos.
+4.	Interactividad con JavaScript:
+o	Implementar la funcionalidad de los sliders y cualquier interacción que se muestre en las imágenes.
+
