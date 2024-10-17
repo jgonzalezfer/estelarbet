@@ -6,27 +6,24 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Page Title</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <script src='main.js'></script>
+    <link rel='stylesheet' type='text/css' media='screen' href='src/css/style.css'>
 
 </head>
 
 <body>
-    <header>
-        <h1>My first PHP page</h1>
-        <nav>
-            <ul>
-                <li><a href="index.php">PREMIO</a></li>
-                <li><a href="about.php">INGRESAR</a></li>
-                <li><a href="contact.php">REGISTRAR</a></li>
-            </ul>
-        </nav>
-    </header>
+<?php
+    include 'src/include/Header/Header.php';
+?>
     <nav>
         <ul>
-            <li><a href="index.php">En Vivo</a></li>
-            <li><a href="about.php">About</a></li>
-            <li><a href="contact.php">Contact</a></li>
+            <li><a href="ENVIVO.php">EN VIVO</a></li>
+            <li><a href="DEPORTE.php">DEPORTE</a></li>
+            <li><a href="CASINO.php">CASINO</a></li>
+            <li><a href="CASINOLIVE.php">CASINO LIVE</a></li>
+            <li><a href="GURU.php">GURÚ</a></li>
+            <li><a href="CRASH.php">CRASH</a></li>
+            <li><a href="Index.php">PAIS</a></li>
         </ul>
     </nav>
     <main>
